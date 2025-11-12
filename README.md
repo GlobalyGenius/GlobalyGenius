@@ -1,6 +1,6 @@
 # Globaly Genius
 
-Belarusian AI enthusiast creating projects at the intersection of artificial intelligence and modern technologies.
+Belarusian AI-enthusiast creating projects at the intersection of artificial intelligence and modern technologies.
 
 ## 🚀 Main Projects
 
@@ -14,7 +14,7 @@ Belarusian AI enthusiast creating projects at the intersection of artificial int
 
 - **Portfolio**: [globalygenius.github.io](https://globalygenius.github.io)
 - **GitHub**: [github.com/globalygenius](https://github.com/globalygenius)
-- **Email**: globalygenius@example.com
+- **Email**: globalygenius@proton.me
 
 ---
 
