@@ -14,7 +14,7 @@ css
 ### **🖼️ Visual Assets**
 
 #### **Profile Avatar** (500×500px)
-![Avatar](https://globalygenius.github.io/brand/avatar.png)
+![Avatar](./avatar.png)
 - **Format:** PNG with transparent background
 - **Style:** Modern unicorn silhouette with gradient accent
 - **Usage:** GitHub, social media profiles, avatars
